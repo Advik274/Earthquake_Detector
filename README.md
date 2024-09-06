@@ -20,6 +20,10 @@ Refer to the following diagram for wiring instructions. The diagram is essential
 
 ![Circuit Diagram](Picture1.jpg)
 
+## Prject Diagram
+
+
+
 ## Software Requirements
 - [Arduino IDE](https://www.arduino.cc/en/software) (for uploading code to the Arduino UNO)
 - Libraries:
