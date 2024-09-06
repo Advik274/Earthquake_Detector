@@ -20,7 +20,9 @@ Refer to the following diagram for wiring instructions. The diagram is essential
 
 ![Circuit Diagram](Picture1.jpg)
 
-## Prject Diagram
+## Prject Picture
+
+![Project Picture](picture2.jpg)
 
 
 
