@@ -47,3 +47,7 @@ This project demonstrates a basic earthquake detection system, but the MPU6050 s
 
 ## Contributions
 Feel free to fork this repository and contribute to improving the project!
+
+## Contact
+For any inquiries or suggestions, feel free to contact me through [LinkedIn](https://www.linkedin.com/in/arnav-latiyan-696615297/).
+
