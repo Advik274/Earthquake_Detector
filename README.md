@@ -15,7 +15,8 @@ This project is an Arduino-based earthquake detector that utilizes an MPU6050 se
 - Resistors and Other Basic Electronics Components
 
 ## Circuit Diagram
-Refer to the ![Circuit Diagram](Picture1.jpg) for wiring instructions. The diagram is essential for setting up the connections between the Arduino, MPU6050, LED, buzzer, and LCD display.
+Refer to the following diagram for wiring instructions. The diagram is essential for setting up the connections between the Arduino, MPU6050, LED, buzzer, and LCD display.
+![Circuit Diagram](Picture1.jpg)
 
 ## Software Requirements
 - [Arduino IDE](https://www.arduino.cc/en/software) (for uploading code to the Arduino UNO)
