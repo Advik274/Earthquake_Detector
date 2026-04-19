@@ -1,4 +1,3 @@
-
 # Arduino Earthquake Detector
 
 ## Overview
@@ -20,11 +19,9 @@ Refer to the following diagram for wiring instructions. The diagram is essential
 
 ![Circuit Diagram](Picture1.jpg)
 
-## Prject Picture
+## Project Picture
 
 ![Project Picture](picture2.jpg)
-
-
 
 ## Software Requirements
 - [Arduino IDE](https://www.arduino.cc/en/software) (for uploading code to the Arduino UNO)
