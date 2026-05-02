@@ -1,7 +1,7 @@
 # Arduino Earthquake Detector
 
 ## Overview
-This project is an Arduino-based earthquake detector that utilizes an MPU6050 sensor, an LED, a buzzer, and an LCD display. The device monitors seismic activity through gyroscope data and alerts users by triggering an LED and buzzer if the values exceed a predefined threshold.
+This project is an Arduino-based earthquake detector that utilizes an MPU6050 sensor, an LED, a buzzer, and an LCD display. The device monitors seismic activity through gyroscope and accelerometer data and alerts users by triggering an LED and buzzer if the values exceed a predefined threshold.
 
 ## Components Used
 - Arduino UNO
@@ -44,9 +44,9 @@ Refer to the following diagram for wiring instructions. The diagram is essential
 
 ## Operation
 - Once powered, the device initializes the MPU6050 sensor and displays the project name on the LCD.
-- The MPU6050 continuously monitors gyroscope data.
-- If the rotational values on any axis exceed the threshold (425 or -425), the LED and buzzer are activated to indicate potential seismic activity.
-- The gyroscope readings can be monitored via the Serial Monitor in the Arduino IDE.
+- The MPU6050 continuously monitors gyroscope and accelerometer data.
+- If the rotational or acceleration values on any axis exceed the threshold (425 or -425), the LED and buzzer are activated to indicate potential seismic activity.
+- The sensor readings can be monitored via the Serial Monitor in the Arduino IDE.
 
 ## Applications
 This project demonstrates a basic earthquake detection system, but the MPU6050 sensor can be used in various other applications, such as drones, balancing robots, and more.
